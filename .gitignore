@@ -1,0 +1,19 @@
+build/
+*.app/
+__pycache__/
+.DS_Store
+reports/
+
+# Configurações e credenciais locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+.venv/
+venv/
+.pytest_cache/
+*.py[cod]
